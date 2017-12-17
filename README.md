@@ -3,12 +3,18 @@ a simple model about stock market
 
 v1.0版本：
 written by huangxiao
+
 样本空间：上证所有股票
 label1：涨幅较大
+
 label0：涨幅较小以及在跌的股票
+
 特征选择：固定选了几个特征
+
 分类算法：二分类，随机森林算法
+
 在输出空间中随机抽20支股票买入，测试算法准确度
+
 
 后续会加入：
 更好的特征选择算法
